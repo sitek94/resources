@@ -14,6 +14,8 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 ## Routing
 
-* [React Router v6 Getting Starteed](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
+* [Installation v6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/add-to-a-website.md)
+* [React Router v6 Getting Started](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
+
 
 
