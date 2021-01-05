@@ -6,7 +6,7 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 ## Authentication
 
-* [Auth in React Apps by Kent C. Dodds](https://kentcdodds.com/blog/authentication-in-react-applications)
+* [Auth in React Apps](https://kentcdodds.com/blog/authentication-in-react-applications) by Kent C. Dodds
 
 ## HTML
 
@@ -17,5 +17,6 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 * [Installation v6](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/add-to-a-website.md)
 * [React Router v6 Getting Started](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
 
+## React
 
-
+[Inside React - A Deeper Look](https://www.youtube.com/watch?v=pkNzU-5oDiA&t=14583s) by Tejas Kuma (Reactathon 2020)
