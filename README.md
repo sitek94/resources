@@ -19,4 +19,4 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 ## React
 
-[Inside React - A Deeper Look](https://www.youtube.com/watch?v=pkNzU-5oDiA&t=14583s) by Tejas Kuma (Reactathon 2020)
+[Inside React - A Deeper Look](https://www.youtube.com/watch?v=pkNzU-5oDiA&t=14583s) by Tejas Kumar (Reactathon 2020)
