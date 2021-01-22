@@ -20,6 +20,12 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 ## React
 
 * [Deploy React App to GitHub Pages](https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f)
+  ```json
+  "predeploy": "yarn build",
+  "deploy": "gh-pages -d build"
+ 
+  ```
+  
 * [Inside React - A Deeper Look](https://youtu.be/pkNzU-5oDiA?t=5843) by Tejas Kumar (Reactathon 2020)
 
 ## Materials to go through 
