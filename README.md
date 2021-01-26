@@ -8,14 +8,23 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 * [Auth in React Apps](https://kentcdodds.com/blog/authentication-in-react-applications) by Kent C. Dodds
 
+<hr/>
+
+
 ## HTML
 
 * [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
+
+<hr/>
+
 
 ## Routing
 
 * [React Router v6 Installation](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/add-to-a-website.md)
 * [React Router v6 Getting Started](https://github.com/ReactTraining/react-router/blob/dev/docs/installation/getting-started.md)
+
+<hr/>
+
 
 ## React
 
@@ -28,9 +37,27 @@ Also some interesting articles, videos and other stuff that I don't want to lose
   
 * [Inside React - A Deeper Look](https://youtu.be/pkNzU-5oDiA?t=5843) by Tejas Kumar (Reactathon 2020)
 
+<hr/>
+
+
+## React + TypeScript
+
+[Basic Prop Types](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)\
+[Event handlers](https://www.carlrippon.com/React-event-handlers-with-typescript/)\
+[Useful Hooks](https://react-typescript-cheatsheet.netlify.app/docs/basic/useful-hooks/)
+
+### Example apps
+[Todo app](https://github.com/laststance/create-react-app-typescript-todo-example-2020/tree/master)
+
+<hr/>
+
+
 ## Express
 
 * [React Express Starter](https://github.com/bradtraversy/react_express_starter) by Brad Traversy
+
+<hr/>
+
 
 ## Materials to go through 
 
