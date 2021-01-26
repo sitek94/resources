@@ -42,12 +42,13 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 ## React + TypeScript
 
-[Basic Prop Types](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)\
-[Event handlers](https://www.carlrippon.com/React-event-handlers-with-typescript/)\
-[Useful Hooks](https://react-typescript-cheatsheet.netlify.app/docs/basic/useful-hooks/)
+* [Basic Prop Types](https://react-typescript-cheatsheet.netlify.app/docs/basic/getting-started/basic_type_example)
+* [Event handlers](https://www.carlrippon.com/React-event-handlers-with-typescript/)
+* [Useful Hooks](https://react-typescript-cheatsheet.netlify.app/docs/basic/useful-hooks/)
 
 ### Example apps
-[Todo app](https://github.com/laststance/create-react-app-typescript-todo-example-2020/tree/master)
+* [Todo app example](https://github.com/laststance/create-react-app-typescript-todo-example-2020/tree/master)
+* [Cypress realworld-app example](https://github.com/cypress-io/cypress-realworld-app)
 
 <hr/>
 
