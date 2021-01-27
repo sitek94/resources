@@ -64,3 +64,6 @@ Also some interesting articles, videos and other stuff that I don't want to lose
 
 - [ ] [CDN Caching, Static Site Generation, and Server Side Rendering](https://www.youtube.com/watch?v=bfLFHp7Sbkg&list=WL&index=1&t=1s)
 
+#### Icons
+
+Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94/a9f2139170ff48b5241671eec00a2bea)
