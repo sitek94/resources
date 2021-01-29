@@ -69,9 +69,17 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
 
 
 
-## Express <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/be45ba13b5ec73a94dc2bfac8f9d3c1d9897b152/nodejs.svg" />
+## Node.js and Express <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/be45ba13b5ec73a94dc2bfac8f9d3c1d9897b152/nodejs.svg" />
 
 * [React Express Starter](https://github.com/bradtraversy/react_express_starter) by Brad Traversy
+
+<hr/>
+
+
+
+## Time and Date <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/30c8a272f6fb057ca7249f2e6e18453e60b7f3de/calendar.svg" />
+
+* [Intl.DateTimeFormat cheatsheet](https://devhints.io/wip/intl-datetime)
 
 <hr/>
 
