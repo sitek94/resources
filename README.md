@@ -26,7 +26,7 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
 ## Git <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/f7291bc2e7a5a15737c89c594e189ed792b89394/git.svg" />
 
 * [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0-beta.2/#summary) - a specification for adding human and machine readable meaning to commit messages.
-
+* [gitmoji](https://gitmoji.dev/) - an emoji guide for your commit messages
 <hr/>
 
 
