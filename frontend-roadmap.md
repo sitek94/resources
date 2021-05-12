@@ -14,7 +14,8 @@
   - [x] [HTTP: Let’s GET It On! 2/3](https://dev.opera.com/articles/http-lets-get-it-on/)
   - [x] [HTTP: Response Codes 3/3](https://dev.opera.com/articles/http-lets-get-it-on/)
 - [ ] [HTTP: Deep dive](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-  - [ ] [Overview](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - [x] [Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+  - [ ] [HTTP Caching](https://developer.mozilla.org/en-US/docs/Web/HTTP/Caching)
 
 ### Videos
 - [x] [HTTP - CS50 lecture by David Malan](https://www.youtube.com/watch?v=PUPDGbnpSjw&t=2836s) - especially first half, where David talks about: Clients and Servers, WWW, HTTP, DNS, Trans-Oceanic Cabling, TCP/IP and more.
