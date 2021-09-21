@@ -24,6 +24,7 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
 
 ## 🖼️  &nbsp;&nbsp; Images, Icons, SVGs
   * [Material Icons](https://fonts.google.com/icons)
+  * [Simple Icons](https://simpleicons.org/)
   * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
   * [Convert SVG code to PNG](https://mybyways.com/blog/convert-svg-to-png-using-your-browser)
 
