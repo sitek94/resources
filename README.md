@@ -23,6 +23,7 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
 
 ## 📝  &nbsp;&nbsp; Docs
   * [ASCII Diagrams](https://asciiflow.com/#/)
+  * [MDX-based presentation decks](https://mdx-deck.jxnblk.com/https://mdx-deck.jxnblk.com/)
 
 ## 🖼️  &nbsp;&nbsp; Images, Icons, SVGs
   * [Material Icons](https://fonts.google.com/icons)
