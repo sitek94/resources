@@ -92,7 +92,11 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
 
 <hr/>
 
+## 🐜 &nbsp;&nbsp; Utils
 
+* [Glob Pattern Tester](https://globster.xyz/)
+
+<hr/>
 
 ## Materials to go through <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/f9234a22ae313c49275385356d8fc7e22dcf2b87/check.svg" />
 
