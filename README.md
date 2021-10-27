@@ -30,6 +30,7 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
   * [Simple Icons](https://simpleicons.org/)
   * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
   * [Convert SVG code to PNG](https://mybyways.com/blog/convert-svg-to-png-using-your-browser)
+  * [PixelTrue Free Illustrations](https://www.pixeltrue.com/free-illustrations)
 
 
 ## Git <img align="left" alt="HTML" width="30px" src="https://gist.githubusercontent.com/sitek94/a9f2139170ff48b5241671eec00a2bea/raw/f7291bc2e7a5a15737c89c594e189ed792b89394/git.svg" />
