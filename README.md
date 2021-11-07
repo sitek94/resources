@@ -1,4 +1,4 @@
-# Programming Resources 
+# Resources 
 
 A collection of resources that I tend to use a lot and I have to google them up everytime.
 
