@@ -1,8 +1,8 @@
 # Resources 
 
-A collection of resources that I tend to use a lot and I have to google them up everytime.
+A collection of resources that I tend to use a lot and I have to google them up each time.
 
-Also some interesting articles, videos and other stuff that I don't want to lose in the depths of my bookmarks.
+Also, some interesting articles, videos and other stuff that I don't want to lose in the depths of my bookmarks.
 
 Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94/a9f2139170ff48b5241671eec00a2bea).
 
