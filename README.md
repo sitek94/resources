@@ -29,6 +29,7 @@ Icons used in the docs are stored in [this gist](https://gist.github.com/sitek94
   * [Material Icons](https://fonts.google.com/icons)
   * [Simple Icons](https://simpleicons.org/)
   * [SVG Path Editor](https://yqnn.github.io/svg-path-editor/)
+  * [A tiny drawing app](https://github.com/tldraw/tldraw) - export your drawings as SVG! 🤩
   * [Convert SVG code to PNG](https://mybyways.com/blog/convert-svg-to-png-using-your-browser)
   * [PixelTrue Free Illustrations](https://www.pixeltrue.com/free-illustrations)
 
